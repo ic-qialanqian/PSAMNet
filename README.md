@@ -2,8 +2,8 @@
 
 ## Usage
 ### Prerequisites
-Pytorch 0.4.1+
-torchvision
+1. Pytorch 0.4.1+
+2. torchvision
 
 ### 1. Download the datasets
 
