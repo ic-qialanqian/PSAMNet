@@ -1,7 +1,7 @@
 
 
 ## Usage
-
+This is the official code of our paper "[Salient Object Detection Combining a Self-Attention Module and a Feature Pyramid Network](https://www.mdpi.com/2079-9292/9/10/1702)".
 
 ### 1. Download the datasets
 
@@ -41,3 +41,19 @@ All results saliency maps will be stored under `results/run-*` folders in .png f
 
 https://github.com/NathanUA/Binary-Segmentation-Evaluation-Tool. 
 The Code was used for evaluation in CVPR 2019 paper 'BASNet: Boundary-Aware Salient Object Detection code', Xuebin Qin, Zichen Zhang, Chenyang Huang, Chao Gao, Masood Dehghan and Martin Jagersand. 
+
+## BibTex
+To cite this code for publications - please use:
+```
+@article{ren2020salient,
+  title={Salient Object Detection Combining a Self-attention Module and a Feature Pyramid Network},
+  author={Ren, Guangyu and Dai, Tianhong and Barmpoutis, Panagiotis and Stathaki, Tania},
+  journal={Electronics},
+  volume={9},
+  number={10},
+  pages={1702},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+```
